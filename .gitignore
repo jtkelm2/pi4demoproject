@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+data/nohup.out
+data/*.csv
+=======
 # History files
 .Rhistory
 .Rapp.history
@@ -31,3 +35,4 @@ vignettes/*.pdf
 # Temporary files created by R markdown
 *.utf8.md
 *.knit.md
+>>>>>>> 564e0aa39f0801f626dca122e8bf21b3b021753f
